@@ -19,8 +19,13 @@ console.log(resultElement)
 // Fase raccolta dati
 //1 chiedi il nume del utente
 
-const FirstName = prompt('Dimmi il tuo nome')
-console.log(FirstName)
+const firstName = prompt('Dimmi il tuo nome')
+console.log(firstName)
+
+//2 chiedi il cognume del utente
+
+const lastName = prompt('Dimmi il tuo nome')
+console.log(lastName)
 
 
 
