@@ -27,6 +27,11 @@ console.log(firstName)
 const lastName = prompt('Dimmi il tuo nome')
 console.log(lastName)
 
+//3 chiedi il colore del utente
+
+const favColor = prompt('Dimmi il tuo colore preferito')
+console.log(favColor)
+
 
 
 // Fase di lavorazione dati
