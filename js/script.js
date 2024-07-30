@@ -41,4 +41,4 @@ console.log(password)
 
 
 // fase produzione imput 
-result.innerText = 'La mia password è' + password
+result.innerText = 'La mia password creata è ' + password
