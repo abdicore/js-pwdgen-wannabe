@@ -13,28 +13,28 @@
 // Fase preparatoria
 //1-Recuperare gli elementi di mio interesse
 resultElement = document.getElementById ('result');
-console.log(resultElement)
 
 
 // Fase raccolta dati
 //1 chiedi il nume del utente
 
-const firstName = prompt('Dimmi il tuo nome')
+const firstName = prompt('Dimmi il tuo nome','abdi')
 console.log(firstName)
 
 //2 chiedi il cognume del utente
 
-const lastName = prompt('Dimmi il tuo nome')
+const lastName = prompt('Dimmi il tuo nome','mohamed')
 console.log(lastName)
 
 //3 chiedi il colore del utente
 
-const favColor = prompt('Dimmi il tuo colore preferito')
+const favColor = prompt('Dimmi il tuo colore preferito','rosso')
 console.log(favColor)
 
 
 
 // Fase di lavorazione dati
+const fullName =  firstName + lastName
 
 
 
