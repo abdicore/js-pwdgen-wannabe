@@ -16,9 +16,11 @@ resultElement = document.getElementById ('result');
 console.log(resultElement)
 
 
-
-
 // Fase raccolta dati
+//1 chiedi il nume del utente
+
+const FirstName = prompt('Dimmi il tuo nome')
+console.log(FirstName)
 
 
 
