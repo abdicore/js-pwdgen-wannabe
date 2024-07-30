@@ -2,7 +2,7 @@
 
 
 /* 
-1-Recuperare gli elementi di interesse nella pagina
+1-Recuperare gli elementi di mio interesse 
 2- Chiedi il nome del utente
 3- Chiedi il cogniome del utente
 4- Chiedi il suo colore preferito
@@ -11,6 +11,10 @@
 
 
 // Fase preparatoria
+//1-Recuperare gli elementi di mio interesse
+resultElement = document.getElementById ('result');
+console.log(resultElement)
+
 
 
 
