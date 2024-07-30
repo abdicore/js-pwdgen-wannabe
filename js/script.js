@@ -35,7 +35,9 @@ console.log(favColor)
 
 // Fase di lavorazione dati
 const fullName =  firstName + lastName
+const password = fullName + favColor + '21'
+console.log(password)
 
 
 
-// fase produzione imput
+// fase produzione imput 
